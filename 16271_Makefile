@@ -1,0 +1,6 @@
+all:
+	gcc -pthread -o sv 16271_Server.c -w
+	gcc -pthread -o cl 16271_Client.c -w
+	
+clean:
+	rm sv cl
