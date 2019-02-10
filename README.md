@@ -1,4 +1,4 @@
-# Client-Server-using-Sockets
+# Client Server using Sockets
 
 Tasks:
 1. Develop a client server program using sockets
